@@ -1,4 +1,4 @@
-# Readme
+# README
 ## 📊 Project Overview
 This project focuses on analyzing the **decline in Return on Ad Spend (ROAS)** in **Wayfair’s Facebook advertising campaigns**, particularly in **June 2022**.  
 The goal is to identify the main factors behind the drop and suggest actionable steps to enhance advertising performance.
